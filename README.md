@@ -1,0 +1,1 @@
+ste proyecto es un CRUD para el control de estudiantes, realizado con [tu tecnología elegida]. El propósito de este repositorio es gestionar la información de los estudiantes mediante operaciones de creación, lectura, actualización y eliminación.
