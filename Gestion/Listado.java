@@ -7,7 +7,7 @@ public class Listado {
 
     public void listarEstudiantes() {
         if (estudiantes.isEmpty()) {
-            System.out.println("No hay estudiantes para listar.");
+            System.out.println("No hay estudiantes para listar. ");
         } else {
             for (Estudiante estudiante : estudiantes) {
                 System.out.println(estudiante);
